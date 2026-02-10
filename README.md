@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## Target API
+## Backend API
 
 API REST desenvolvida em **Laravel**, projeto utiliza **Docker**, **MySQL** e segue boas práticas de arquitetura, aplicando conceitos de **SOLID**, **DRY** e testes automatizados.
 
